@@ -42,7 +42,7 @@ Help another reviewer reproduce and understand a finding, assess its impact and 
 - MITRE CWE-639: https://cwe.mitre.org/data/definitions/639.html
 
 ## Explanatory video
-**Video URL:** `(https://drive.google.com/file/d/153fls9gpv3pzrCXB2vjiDT_86RqJXT92/view?usp=sharing)`
+**Video URL:** `https://drive.google.com/file/d/153fls9gpv3pzrCXB2vjiDT_86RqJXT92/view?usp=sharing`
 
 ## Submission details
 - **Intern name:** Shourya
